@@ -41,7 +41,7 @@ export class LavaExperiment {
     force: 150,
     spring: 20,
     damping: 0.75,
-    heatEnabled: true,
+    heatEnabled: false,
     rotateEnabled: true,
     layout: 'two-col',
   }
